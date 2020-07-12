@@ -5,3 +5,9 @@ h1 {
 button{
   color:darkmagenta
 }
+div{
+  background: red;
+  width: 50%;
+  margin-left: 30px;
+  padding: 20px;
+}
